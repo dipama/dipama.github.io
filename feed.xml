@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Dipam Acharyya</title>
+    <link href="https://dipama.github.io/feed.xml" rel="self" />
+    <link href="https://dipama.github.io" />
+    <updated>2023-04-05T17:48:29-07:00</updated>
+    <author>
+        <name>Sincerely Me</name>
+    </author>
+    <id>https://dipama.github.io</id>
+
+    <entry>
+        <title> I make digital art</title>
+        <author>
+            <name>Sincerely Me</name>
+        </author>
+        <link href="https://dipama.github.io/i-make-digital-art.html"/>
+        <id>https://dipama.github.io/i-make-digital-art.html</id>
+
+        <updated>2023-04-05T17:48:29-07:00</updated>
+            <summary>
+                <![CDATA[
+                    check it out
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>check it out</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

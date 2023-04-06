@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dipam Acharyya",
+    "description": "",
+    "home_page_url": "https://dipama.github.io",
+    "feed_url": "https://dipama.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sincerely Me"
+    },
+    "items": [
+        {
+            "id": "https://dipama.github.io/i-make-digital-art.html",
+            "url": "https://dipama.github.io/i-make-digital-art.html",
+            "title": " I make digital art",
+            "summary": "check it out",
+            "content_html": "<p>check it out</p>",
+            "author": {
+                "name": "Sincerely Me"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-05T17:48:29-07:00",
+            "date_modified": "2023-04-05T17:48:29-07:00"
+        }
+    ]
+}

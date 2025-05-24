@@ -10,47 +10,5 @@
         "name": "Sincerely Me"
     },
     "items": [
-        {
-            "id": "https://dipama.github.io/about-dipam.html",
-            "url": "https://dipama.github.io/about-dipam.html",
-            "title": "About Dipam",
-            "summary": "Dipam Acharyya is a versatile and ambitious professional with a BA in Computer Science from UC Berkeley. He has worked&hellip;",
-            "content_html": "<p>Dipam Acharyya is a versatile and ambitious professional with a BA in Computer Science from UC Berkeley. He has worked at various tech and retail companies, taking on roles such as technical advisor, data analyst, data engineer, solution architect, and project manager. He is passionate about solving complex problems with innovative solutions and learning new skills along the way. In his spare time, he enjoys hiking, reading, and playing chess.</p>",
-            "image": "https://dipama.github.io/media/posts/3/students-of-color-microbits.jpg",
-            "author": {
-                "name": "Sincerely Me"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T17:59:24-07:00",
-            "date_modified": "2023-04-05T18:04:12-07:00"
-        },
-        {
-            "id": "https://dipama.github.io/i-tutor-students-of-all-ages.html",
-            "url": "https://dipama.github.io/i-tutor-students-of-all-ages.html",
-            "title": "I tutor students of all ages",
-            "image": "https://dipama.github.io/media/posts/2/roblox-course_vectorized.png",
-            "author": {
-                "name": "Sincerely Me"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T17:55:21-07:00",
-            "date_modified": "2023-04-05T17:55:21-07:00"
-        },
-        {
-            "id": "https://dipama.github.io/i-make-digital-art.html",
-            "url": "https://dipama.github.io/i-make-digital-art.html",
-            "title": " I make digital art",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dipama.github.io/media/posts/1/dreamersgo.jpg\" alt=\"two kids in digital dreamer mode\" width=\"1024\" height=\"1024\" sizes=\"(min-width: 37.5em) 1600px, 90vw\" srcset=\"https://dipama.github.io/media/posts/1/responsive/dreamersgo-xs.jpg 384w ,https://dipama.github.io/media/posts/1/responsive/dreamersgo-sm.jpg 600w ,https://dipama.github.io/media/posts/1/responsive/dreamersgo-md.jpg 768w ,https://dipama.github.io/media/posts/1/responsive/dreamersgo-lg.jpg 1200w ,https://dipama.github.io/media/posts/1/responsive/dreamersgo-xl.jpg 1600w\"></figure>",
-            "image": "https://dipama.github.io/media/posts/1/dreamersgo-2.jpg",
-            "author": {
-                "name": "Sincerely Me"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-04-05T17:48:29-07:00",
-            "date_modified": "2023-04-05T17:52:57-07:00"
-        }
     ]
 }
